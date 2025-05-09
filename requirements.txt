@@ -1,0 +1,16 @@
+pandas
+nltk
+scikit-learn
+ipykernel
+torch
+transformers
+sentencepiece
+matplotlib
+seaborn
+flask
+torch
+transformers
+gunicorn
+PyMuPDF
+python-docx
+
